@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Cypress, React, React Native, Nodejs, Selenium, JavaScript, Typescript**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **more languages and reinforcing my QA side, to have a more complete profile as an SDET.**
 
 - 💬 Ask me about **Cypress, react, react-native, nodejs, Seleniu, JavaScript, Angular**
 
@@ -46,7 +46,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14,selenium,cypress,appium,playwright" />
   </a>
 </p>
 
