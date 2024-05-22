@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **more languages and reinforcing my QA side, to have a more complete profile as an SDET.**
 
-- 💬 Ask me about **Cypress, react, react-native, nodejs, Seleniu, JavaScript, Angular**
+- 💬 Ask me about **Cypress, react, react-native, nodejs, Selenium, JavaScript, Angular**
 
 - 📫 Feel free to reach me out **josuedanii.v@gmail.com**
 
