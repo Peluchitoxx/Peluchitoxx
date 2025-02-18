@@ -27,10 +27,17 @@ I specialize in the following technologies:
   
 | Backend | QA |
 | ------- | -- |
-| <!-- BACKEND --> <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />                                                       | <!-- QA --> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <!-- Appium --> <img src="https://img.shields.io/badge/Appium-25B6B2?style=for-the-badge&logo=Appium&logoColor=white" />
+| <!-- BACKEND --> <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />                                                       | <!-- QA --> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <!-- Appium --> <img src="https://img.shields.io/badge/Appium-25B6B2?style=for-the-badge&logo=Appium&logoColor=white" /> <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <!-- JUnit --> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white" />
   
 </div>
----
+
+<div align="center">
+
+| Organization |
+| ------------ |
+| <!-- ORGANIZATION --> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+</div>
 
 ## Connect With Me 🤝
 
