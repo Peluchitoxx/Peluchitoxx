@@ -11,8 +11,6 @@ I’m a Quality Assurance engineer passionate about test automation and software
 
 ## Technologies That I Know 👨🏻‍💻
 
-I specialize in the following technologies:
-
 <h2 align="center"> Some technologies I use: </h2>
 
 <div align="center">
@@ -40,7 +38,7 @@ I specialize in the following technologies:
 ---
 
 <h2 align="center"> Connect With Me 🤝 </h2>
-Feel free to reach out on any of the following platforms:
+<h2 align="center"> Feel free to reach out on any of the following platforms: </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/josue-venegas-116608241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
