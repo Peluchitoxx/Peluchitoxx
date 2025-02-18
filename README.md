@@ -1,11 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/logo_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://hai5e.com/haiseAssets/Digitales/1x/logo_light-bg.png">
-    <img width="400" height="225" alt="Logo de Joshua QA" src="./images/logo_dark.svg">
-  </picture>
-</div>
-
 # 🍉 Joshua | Quality Assurance Engineer
 
 Soy un **Quality Assurance Engineer** apasionado por la automatización de pruebas y la calidad del software. Actualmente trabajo con **Cypress**, **React**, **Selenium**, y más.
@@ -87,6 +79,6 @@ Puedes encontrarme en las siguientes plataformas:
 ### 📫 Let's get in touch!
 <div align="center"> 
   <a href="mailto:josuedanii.v@gmail.com">
-    <img width="260" alt="hai5e email contact" src="https://user-images.githubusercontent.com/79668074/174081409-06cb3a24-d20b-4832-88a4-83793ab722fe.png"> 
+    <img width="260" alt="hai5e email contact" src="https://
   </a>
 </div>
