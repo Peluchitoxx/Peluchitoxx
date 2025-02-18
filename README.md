@@ -13,7 +13,7 @@ I’m a Quality Assurance engineer passionate about test automation and software
 
 I specialize in the following technologies:
 
-<<h2 align="center"> Some technologies I use: </h2>
+<h2 align="center"> Some technologies I use: </h2>
 
 <div align="center">
   
@@ -35,11 +35,14 @@ I specialize in the following technologies:
 
 | Organization | Other |
 | ------------ | ----- |
-| <!-- ORGANIZATION --> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> | <!-- OTHER --> <img src="https://img.shields.io/badge/Burp%20Suite-8B0000?style=for-the-badge&logo=burp-suite&logoColor=white" /> <!-- Redes Sociales --> <a href="https://www.linkedin.com/in/josue-venegas-116608241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/Peluchitoxx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.instagram.com/josuedanii_v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </div>
+| <!-- ORGANIZATION --> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> | <!-- OTHER --> <img src="https://img.shields.io/badge/Burp%20Suite-8B0000?style=for-the-badge&logo=burp-suite&logoColor=white" /> </div>
 
-## Connect With Me 🤝
+---
 
-Feel free to reach out on any of the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/josue-venegas-116608241/)
-- [Twitter](https://x.com/Peluchitoxx)
-- [Instagram](https://www.instagram.com/josuedanii_v/)
+<h2 align="center"> Connect With Me 🤝 </h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/josue-venegas-116608241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://x.com/Peluchitoxx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/josuedanii_v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</div>
